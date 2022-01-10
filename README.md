@@ -6,4 +6,5 @@ It uses Java as an expository language.
 
 ## Progress
 
-- [ ] Union Find
+- [x] Union Find
+- [x] Analysis of Algorithms
