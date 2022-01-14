@@ -10,7 +10,7 @@ public class PathCompressionUF {
 
         for (int i = 0; i < N; i++){
             this.id[i] = i;
-            this.sz[i] = i;
+            this.sz[i] = 1;
         }
     }
 
