@@ -8,3 +8,4 @@ It uses Java as an expository language.
 
 - [x] Union Find
 - [x] Analysis of Algorithms
+- [ ] Stacks and Queues
